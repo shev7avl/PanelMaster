@@ -23,23 +23,23 @@ Tools for creating precast in Revit 2019
 
 1. **Создание проекта КЖ**
    - [Создание проемов по файлу АР](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%BA%D0%B6---%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B5%D0%BC%D1%8B)
-   - Создание марок изделия
-   - Создание сборок изделия
-   - Разборке сборок изделий
+   - [Создание марок изделия](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%BA%D0%B6---%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%BC%D0%B0%D1%80%D0%BA%D0%B8)
+   - [Создание сборок изделия](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%BA%D0%B6---%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8)
+   - [Разборке сборок изделий](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%BA%D0%B6---%D1%80%D0%B0%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8)
 
 ![КЖ - LOD 400](/img/lod_400.png)
 
 2. **Создание проекта КЖ.И**
-   - Удалению уникальных сборок
-   - Созданию чертежей изделий
+   - [Удалению уникальных сборок](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%BA%D0%B6%D0%B8---%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8)
+   - [Созданию чертежей изделий](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%BA%D0%B6%D0%B8---%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%87%D0%B5%D1%80%D1%82%D0%B5%D0%B6%D0%B8-%D0%BA%D0%B6%D0%B8)
 
 ![АКР](/img/arch.png)
 
 3. **Создание проекта АР и АКР**
-   - Создание проемов по файлу КР
-   - Создание плитки
-   - Создание марок фасадов (по материалам плитки и файлу КР)
-   - Создание чертежей фасадов
+   - [Создание проемов по файлу КР](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%B0%D0%BA%D1%80---%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B5%D0%BC%D1%8B)
+   - [Создание плитки](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%B0%D0%BA%D1%80---%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D1%83)
+   - [Создание марок фасадов (по материалам плитки и файлу КР)](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%B0%D0%BA%D1%80---%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BC%D0%B0%D1%80%D0%BA%D0%B8)
+   - [Создание чертежей фасадов](https://github.com/shev7avl/PanelMaster/blob/main/README.md#%D0%B0%D0%BA%D1%80---%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%87%D0%B5%D1%80%D1%82%D0%B5%D0%B6%D0%B8)
 
 ![АКР](/img/settings.png)
 
